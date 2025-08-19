@@ -1,2 +1,2 @@
 # Acme
-DashBoard-Application-madewith-next.js
+Dashboard-application-made-with-next.js
